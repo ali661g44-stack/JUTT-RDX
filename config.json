@@ -1,5 +1,5 @@
 {
-  "mongoURI": "crush7890@cluster0.mbmeln9.mongodb.net",
+  "mongoURI": "mongodb+srv://crussh45_db_user:crush7890@cluster0.mbmeln9.mongodb.net/?appName=Cluster0",
   "ownerID": "61591081676352",
   "adminIDs": [
     "61591081676352",
