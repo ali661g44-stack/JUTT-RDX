@@ -186,25 +186,25 @@ module.exports = {
 
       // Random pair messages
       const pairMessages = [
-        `💕 Perfect Match Found! 💕\n\nThe stars have aligned and destiny has spoken! This pairing is written in the cosmos itself. Your hearts beat in perfect harmony, creating a symphony of love that resonates throughout the universe. Together, you two are unstoppable!`,
+        `𝗖𝗥𝗘𝗔𝗧𝗘 𝗕𝗬 𝗢𝗪𝗡𝗘𝗥 𝗔𝗬𝗔𝗡 𝗝𝗨𝗧𝗧°•🖤💀\n\n𝗛𝗔𝗠 𝗧𝗨𝗠 𝗦𝗔𝗧𝗛 𝗦𝗔𝗧𝗛°•🩷🥲`,
+    
+        `𝗖𝗥𝗘𝗔𝗧𝗘 𝗕𝗬 𝗢𝗪𝗡𝗘𝗥 𝗔𝗬𝗔𝗡 𝗝𝗨𝗧𝗧°•🖤💀\n\n𝗛𝗔𝗠𝗔𝗥𝗔 𝗣𝗬𝗔𝗥 𝗔𝗪𝗪𝗠  °•🐱🪄`,
         
-        `🎉 Love is in the air! 🎉\n\nCupid himself couldn't have made a better match! The chemistry between you two is undeniable, sparking fireworks that light up the entire sky. Your souls were meant to find each other in this vast world. What a magical connection!`,
+        `𝗖𝗥𝗘𝗔𝗧𝗘 𝗕𝗬 𝗢𝗪𝗡𝗘𝗥 𝗔𝗬𝗔𝗡 𝗝𝗨𝗧𝗧°•🖤💀\n\n𝗢𝗛𝗛 𝗧𝗘𝗥𝗘 𝗦𝗔𝗡𝗚 𝗬𝗔𝗥𝗔°•😘🍂`,
         
-        `💖 What a beautiful couple! 💖\n\nThis is the kind of love story that novels are written about! Your personalities complement each other like pieces of a perfect puzzle. The universe conspired to bring you together, and now nothing can break this divine bond!`,
+        `𝗖𝗥𝗘𝗔𝗧𝗘 𝗕𝗬 𝗢𝗪𝗡𝗘𝗥 𝗔𝗬𝗔𝗡 𝗝𝗨𝗧𝗧°•🖤💀\n\n𝗛𝗔𝗠 𝗦𝗔𝗧𝗛 𝗠𝗘 𝗣𝗬𝗔𝗥𝗘 𝗟𝗔𝗚𝗧𝗘 𝗛𝗔𝗡 𝗕𝗔𝗕𝗨°•😻🫂᭄!`,
         
-        `🌟 Match made in heaven! 🌟\n\nEven the angels are celebrating this incredible pairing! Your compatibility is off the charts, and your connection transcends the physical realm. This is pure, cosmic love at its finest. Fate has smiled upon you both!`,
+        `𝗖𝗥𝗘𝗔𝗧𝗘 𝗕𝗬 𝗢𝗪𝗡𝗘𝗥 𝗔𝗬𝗔𝗡 𝗝𝗨𝗧𝗧°•🖤💀\n\n𝗗𝗘𝗞𝗛𝗢 𝗡𝗔 𝗦𝗔𝗧𝗛 𝗠𝗘 𝗞𝗧𝗡𝗘 𝗖𝗨𝗧𝗘 𝗟𝗔𝗚𝗧𝗘 𝗛𝗔𝗡°•🌟🫂᭄`,
         
-        `💝 Cupid has struck! 💝\n\nLove's arrow has found its perfect targets! The romantic energy between you two could power an entire city. Your hearts are now forever intertwined in an eternal dance of passion and affection. This is true love's magic!`,
+        `𝗖𝗥𝗘𝗔𝗧𝗘 𝗕𝗬 𝗢𝗪𝗡𝗘𝗥 𝗔𝗬𝗔𝗡 𝗝𝗨𝗧𝗧°•🖤💀\n\n𝗗𝗘𝗞𝗛𝗢 𝗡𝗔 𝗦𝗔𝗧𝗛 𝗠𝗘 𝗞𝗧𝗡𝗘 𝗖𝗨𝗧𝗘 𝗟𝗔𝗚𝗧𝗘 𝗛𝗔𝗡°•🌟🫂᭄`,
         
-        `🎊 Congratulations lovebirds! 🎊\n\nWhat we have here is a match that happens once in a lifetime! Your souls recognize each other from past lives, creating an instant and unbreakable connection. The entire universe is rooting for your love story!`,
+        `𝗖𝗥𝗘𝗔𝗧𝗘 𝗕𝗬 𝗢𝗪𝗡𝗘𝗥 𝗔𝗬𝗔𝗡 𝗝𝗨𝗧𝗧°•🖤💀\n\nThe algorithms of love have calculated the perfect equation, and you two are the answer! Your compatibility creates a force field of happiness that spreads joy to everyone around you. This is destiny at its most beautiful!`,
         
-        `💞 True love detected! 💞\n\nThe algorithms of love have calculated the perfect equation, and you two are the answer! Your compatibility creates a force field of happiness that spreads joy to everyone around you. This is destiny at its most beautiful!`,
+        `𝗖𝗥𝗘𝗔𝗧𝗘 𝗕𝗬 𝗢𝗪𝗡𝗘𝗥 𝗔𝗬𝗔𝗡 𝗝𝗨𝗧𝗧°•🖤💀\n\nThis pairing is so adorable that even the toughest hearts are melting! Your love story will inspire generations to come. The way you complement each other is nothing short of miraculous. True soulmates have been found!`,
         
-        `🥰 Aww, so cute together! 🥰\n\nThis pairing is so adorable that even the toughest hearts are melting! Your love story will inspire generations to come. The way you complement each other is nothing short of miraculous. True soulmates have been found!`,
+        `𝗖𝗥𝗘𝗔𝗧𝗘 𝗕𝗬 𝗢𝗪𝗡𝗘𝗥 𝗔𝗬𝗔𝗡 𝗝𝗨𝗧𝗧°•🖤💀\n\nThe universe has woven your destinies together with threads of stardust and moonbeams! This isn't just compatibility - it's a cosmic phenomenon. Your love will create ripples of happiness throughout space and time!`,
         
-        `✨ Magical Love Connection! ✨\n\nThe universe has woven your destinies together with threads of stardust and moonbeams! This isn't just compatibility - it's a cosmic phenomenon. Your love will create ripples of happiness throughout space and time!`,
-        
-        `🌹 Romance Level: Maximum! 🌹\n\nThis pairing has set the romance meter to overload! Your love story will be told in legends, sung in ballads, and remembered for all eternity. The gods themselves have blessed this divine union with their favor!`
+        `𝗖𝗥𝗘𝗔𝗧𝗘 𝗕𝗬 𝗢𝗪𝗡𝗘𝗥 𝗔𝗬𝗔𝗡 𝗝𝗨𝗧𝗧°•🖤💀\n\nThis pairing has set the romance meter to overload! Your love story will be told in legends, sung in ballads, and remembered for all eternity. The gods themselves have blessed this divine union with their favor!`
       ];
 
       const randomMessage = pairMessages[Math.floor(Math.random() * pairMessages.length)];
