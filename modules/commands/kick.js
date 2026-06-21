@@ -79,7 +79,7 @@ module.exports = {
         }
         
         // Success message
-        api.sendMessage(`✅ Successfully removed ${userName} from the group.`, threadID);
+        api.sendMessage(`𝗖𝗵𝗮𝗹 𝗯𝗮𝗯𝘆 𝗰𝗵𝗮𝗹𝘁𝗲 𝗯𝗮𝗻𝗼 𝗮𝗴𝗹𝗲𝗲 𝗷𝗮𝗻𝗮𝗺 𝗺𝗲 𝗺𝗲𝗹𝗲𝗻 𝗴𝗲 ${userName} 🥲🪶.`, threadID);
         
         // Update thread in database using thread controller
         try {
