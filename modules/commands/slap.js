@@ -40,7 +40,7 @@ module.exports = {
       if (mentionKeys.length === 0) {
         api.setMessageReaction("👋🏼", messageID, () => {}, true);
         return api.sendMessage(
-          `https://ibb.co/cmg2m0Q!\n\nUsage: ${global.config.prefix}slap [user]`,
+          `username\n\nUsage: ${global.config.prefix}slap [👋🏼]`,
           threadID,
           messageID
         );
