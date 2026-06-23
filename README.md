@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Soft Gradient Header with Smooth Wave -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24&height=180&section=header&text=AYAN%20FB%20BOT&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=45" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24&height=180&section=header&text=AYAN%20JUTT%20BOT&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=45" width="100%" />
 
 <!-- Animated Gradient Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
