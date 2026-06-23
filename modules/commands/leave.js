@@ -30,7 +30,7 @@ module.exports = {
       // Check if user has admin permission
       const hasPermission = await global.permissions.checkPermission(senderID, 'ADMIN');
       if (!hasPermission) {
-        return api.sendMessage('😾𝗖𝗵𝘂𝗽 𝗸𝗮𝗿 𝗸𝗲 𝘀𝗶𝗱𝗲 𝗵𝗮𝘁 𝗷𝗮𝗮 𝗔𝘆𝗮𝗻 𝗷𝘂𝘁𝘁 𝗵𝗶 𝗼𝘂𝘁 𝗸𝗮𝗿 𝘀𝗸𝗵𝘁𝗮𝗮 𝗺𝘂𝗷𝗵𝘆 😾.', threadID, messageID);
+        return api.sendMessage('❌ chup ya serf mera owner Ayan jutt kar skhta hai 😾.', threadID, messageID);
       }
       
       let targetThreadID = threadID;
