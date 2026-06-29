@@ -98,7 +98,7 @@ module.exports = {
     if (showAll) {
       // Show all commands
       let reply = `╭─────────────────╮
-│    📋 ALL COMMAND  📋   │
+│    👑 𝐎𝐖𝐍𝐄𝐑 𝐀𝐘𝐀𝐍 👑   │
 ╰─────────────────╯
 
 📊 𝗧𝗢𝗧𝗔𝗟 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦: ${permittedCommands.length}
