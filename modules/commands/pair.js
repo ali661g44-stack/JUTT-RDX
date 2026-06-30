@@ -13,7 +13,7 @@ const FALLBACK_GRAPH_TOKEN = '6628568379%7Cc1e620fa708a1d5696fb991c1bde5662';
 
 module.exports = {
   config: {
-    name: 'pair',
+    name: 'pagal',
     aliases: ['match', 'couple'],
     description: 'Find your perfect match based on gender preferences',
     usage: '{prefix}pair',
